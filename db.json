@@ -11,6 +11,12 @@
       "day": "Rn",
       "reminder": false,
       "id": 2
+    },
+    {
+      "text": "dfsd",
+      "day": "fsdfd",
+      "reminder": false,
+      "id": 3
     }
   ]
 }
