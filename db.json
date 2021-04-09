@@ -1,34 +1,16 @@
 {
   "tasks": [
     {
-      "id": 1,
-      "text": "Doctors Appointment",
-      "day": "Feb 5th at 2:30pm",
-      "reminder": true
-    },
-    {
-      "text": "Eat time ",
-      "day": "Every day",
-      "reminder": false,
-      "id": 3
-    },
-    {
-      "text": "Churgilini",
-      "day": "Monday",
+      "text": "Sample Task 1",
+      "day": "Sample Date 1",
       "reminder": true,
-      "id": 4
+      "id": 1
     },
     {
-      "text": "Lets GO! React Tutorial Finished",
-      "day": "April 10 at 12:00am",
+      "text": "We chillin bigtime",
+      "day": "Rn",
       "reminder": false,
-      "id": 5
-    },
-    {
-      "text": "asdasd",
-      "day": "asdasd",
-      "reminder": true,
-      "id": 6
+      "id": 2
     }
   ]
 }
